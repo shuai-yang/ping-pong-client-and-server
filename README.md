@@ -1,9 +1,3 @@
-# Homework Number 1
-
-* Author: Sharon Yang
-* Class: CS455 [Distributed Systems] Section 001
-
-
 ## Overview
 
 Simulate a ping pong game using server/client methodology. The Server program has a runServer() main server method that accepts connections and starts off a new thread by calling ServerThread class to handle each accepted connection. In client program, all clients connects to one  server. The PingPong program is where the main class is and finally, a Ping Pong ball is represented simply using an empty serializable object. 
