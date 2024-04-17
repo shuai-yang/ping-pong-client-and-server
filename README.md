@@ -34,5 +34,3 @@ Now the game starts infinitely. To stop all games, go to the server-side termina
 - Understand synchronization concept with example.
 - Understand why this is an "Multithreaded Server, Singlethreaded client" example.
 - Understand how the object/information is passed/exchanged between server and client   
-
-Note: The screenshot of sample output clearly tells me what I am expected to achieve. It would be even better to have more sample outputs including both simple and complicated cases (multiple games are played simultaneously). 
